@@ -6,12 +6,9 @@ You can look at my profile and these are some small projects using C# and .NET F
 
 PROJECT:
 
-• CAR INSURANCE • BlackJack Game
+• CAR INSURANCE 
 
 CAR Insurance
 
 This project is an MVC web application related to car insurance website.
 
-BlackJack Game
-
-This is the game that with false and true.
